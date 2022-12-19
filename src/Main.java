@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        String a = "red";
+        String b = "red";
 
-        switch (a) {
+        switch (b) {
             case "red":
                 System.out.println("stop");
                 break;
